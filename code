@@ -1,3 +1,4 @@
 student name string
 student id int
 student adress string
+print student Id;
